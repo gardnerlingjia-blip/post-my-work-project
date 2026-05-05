@@ -1,17 +1,18 @@
-# Post Your Work on GitHub
+# Bikeshare Project
 
 ## Description
-This project demonstrates how to use Git and GitHub for version control. It includes creating a remote repository, cloning it locally, making changes on different branches, committing those changes, and pushing them to GitHub.
+This project explores US bikeshare data using Python. The program allows the user to choose a city, month, and day, and then displays statistics about travel times, popular stations, trip duration, and user information.
 
 ## Files Used
-- index.html
-- css/app.css
-- js/app.js
+- bikeshare.py
 - README.md
 - .gitignore
 
-## Purpose
-The purpose of this project is to practice working with Git branches, commits, merges, and remote repositories on GitHub.
+## Requirements
+- Python 3
+- pandas
+- numpy
+- time
 
-## Notes
-This repository was used to practice creating branches such as sidebar, footer, and heading-update, then merging those changes back into the main branch.
+## Purpose
+The purpose of this project is to practice version control with Git and GitHub while working with the bikeshare project files.
