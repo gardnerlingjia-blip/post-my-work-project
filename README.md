@@ -1,27 +1,17 @@
->**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
+# Post Your Work on GitHub
 
+## Description
+This project demonstrates how to use Git and GitHub for version control. It includes creating a remote repository, cloning it locally, making changes on different branches, committing those changes, and pushing them to GitHub.
 
-# Project Title
+## Files Used
+- index.html
+- css/app.css
+- js/app.js
+- README.md
+- .gitignore
 
-Describe what my project is about and what it does
+## Purpose
+The purpose of this project is to practice working with Git branches, commits, merges, and remote repositories on GitHub.
 
-## Information about how to use my project
-
-This could include:
-
-- Step-by-step instructions for installing or setting up my project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use my project, including any helpful code snippets.
-- Common issues and troubleshooting tips
-
-## Contribution guidelines
-
-If you welcome contributions, provide guidelines on how others can contribute to your project.
-
-## Credits
-
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-## Date created
-
-Please note the date when this project and README file created
+## Notes
+This repository was used to practice creating branches such as sidebar, footer, and heading-update, then merging those changes back into the main branch.
